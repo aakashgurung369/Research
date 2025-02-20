@@ -1,0 +1,31 @@
+1. How can we define fairness in AI?
+Dilemma: What does "fairness" mean when it comes to AI? Different stakeholders may have varying definitions based on cultural, social, or political perspectives. For example, one definition might focus on equal outcomes, while another might prioritize equal opportunities. Which framework should we use, and how do we measure fairness across different groups?
+Unsolved Question: Can we create a universally accepted standard for fairness in AI systems, or is it inherently context-dependent?
+2. Should biased historical data be used to train AI systems?
+Dilemma: Many AI systems are trained on historical data, which often contains biased human decisions (e.g., in law enforcement, hiring, lending). Using such data could perpetuate these biases.
+Unsolved Question: Is it ethical to train AI on biased data if it's the only available data, and how do we decide when to override historical data to avoid reinforcing those biases?
+3. Can we ever fully eliminate bias in AI, or is it an inherent issue?
+Dilemma: Given that AI systems often reflect the biases inherent in the data they are trained on, can we ever fully eliminate bias in AI, or is some level of bias inevitable?
+Unsolved Question: What degree of bias in AI is acceptable, and how do we measure and mitigate it without losing the efficacy of the AI model?
+4. How do we ensure transparency and explainability in AI decisions?
+Dilemma: AI systems, especially deep learning models, can often operate as "black boxes," where even experts can’t fully explain why they make certain decisions. This lack of transparency can obscure bias and hinder accountability.
+Unsolved Question: How can we balance the complexity of advanced AI models with the need for transparency and explainability, especially in high-stakes applications like healthcare or criminal justice?
+5. How do we prevent reinforcement of existing societal biases in AI?
+Dilemma: If AI systems are designed to optimize for certain outcomes (e.g., profitability, engagement), they may reinforce existing societal biases by prioritizing certain groups over others.
+Unsolved Question: Can AI be designed to actively counteract societal biases and promote positive social change, or will AI simply reinforce the status quo?
+6. Who is responsible when an AI system’s biased decision causes harm?
+Dilemma: If an AI system causes harm due to biased decision-making, who should be held accountable—the creators of the algorithm, the users, or the system itself?
+Unsolved Question: How do we create accountability structures for AI decision-making that account for biases introduced at different stages (data collection, model training, deployment)?
+7. Can AI ever understand context sufficiently to avoid biased decisions?
+Dilemma: AI systems often struggle to understand the broader context in which decisions are made. This is particularly problematic in areas like criminal justice, where AI might make biased decisions based on factors that don’t account for the full complexity of human behavior.
+Unsolved Question: Can AI ever be trained to sufficiently understand human context, empathy, and nuance to avoid biased decisions in situations like criminal sentencing or hiring?
+8. What is the role of human intervention in mitigating AI bias?
+Dilemma: Many experts argue that humans need to be involved in the decision-making process to ensure fairness, yet this human involvement itself could introduce bias.
+Unsolved Question: How can we design AI systems that are both autonomous and free of bias, while ensuring human oversight doesn't reintroduce new biases or amplify existing ones?
+9. Should AI models be "debiased" by altering the data, or should we focus on model transparency?
+Dilemma: There are two primary approaches to mitigating bias in AI: altering the data (e.g., removing biased features) or making the model more transparent so that biased decisions can be spotted and corrected. Each approach has its own ethical implications.
+Unsolved Question: Which approach should we prioritize, or is a hybrid solution the most ethical and effective? How do we ensure that modifying data doesn't lead to new forms of bias?
+10. How do we address intersectional bias in AI systems?
+Dilemma: Bias in AI is not always straightforward; people may face compounded bias due to multiple factors (race, gender, socioeconomic status). AI models often fail to account for these intersectionalities.
+Unsolved Question: How can we design AI systems that recognize and address intersectional bias in a way that avoids discrimination against individuals with multiple marginalized identities?
+These questions represent some of the unresolved challenges in addressing bias in AI. Experts continue to debate the best approaches, and there is no single answer, as the ethical implications can vary based on context, application, and the values of the society involved.
