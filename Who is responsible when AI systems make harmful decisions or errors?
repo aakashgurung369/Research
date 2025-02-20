@@ -1,0 +1,15 @@
+When AI systems make harmful decisions or errors, the responsibility typically falls on several parties, depending on the situation:
+
+1. **Developers and Engineers**: The creators of AI systems are responsible for ensuring that the system is designed, trained, and tested correctly. If an AI makes a harmful decision due to poor design, coding errors, or overlooked biases, the developers and engineers who built the system are accountable.
+
+2. **Organizations and Companies**: The organizations that deploy AI systems hold significant responsibility, especially if they fail to monitor, update, or maintain the system properly. They must ensure the AI is ethical, fair, and safe, and take corrective action when harm occurs.
+
+3. **Data Providers**: If an AI's harmful behavior is a result of biased, incomplete, or faulty data, the providers of that data share responsibility. The quality of data is fundamental to the AI’s performance and fairness.
+
+4. **Regulatory Authorities**: Governments and regulatory bodies are responsible for setting rules and standards for AI systems, ensuring that developers and companies are following ethical guidelines. They play a key role in establishing frameworks for liability when harm occurs.
+
+5. **End-Users (Human Oversight)**: In many cases, humans are the ultimate decision-makers, especially in high-stakes situations like healthcare or criminal justice. If an AI recommendation is followed blindly without proper human review, the end-user (such as a doctor, officer, or judge) may share some responsibility for the harm.
+
+6. **AI Designers and Ethical Committees**: Those responsible for ensuring AI systems adhere to ethical principles and are tested for fairness also bear responsibility. If ethical concerns were neglected during the design or implementation phase, they too may be held accountable.
+
+Ultimately, responsibility is shared, and a multi-party approach is necessary to address the risks of AI systems. Legal frameworks and ethical guidelines are still evolving to clarify exactly who is responsible, but it’s clear that accountability cannot fall solely on the technology itself—it must lie with the people and organizations that create, deploy, and oversee these systems.
